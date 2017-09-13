@@ -1,0 +1,12 @@
+<div class="form-group">
+[text* your-name class:form-control placeholder "Name"]
+</div>
+<div class="form-group">
+[email* your-email class:form-control placeholder "Email"]
+</div>
+<div class="form-group">
+[textarea message class:form-control placeholder "Message"]
+</div>
+<div class="form-group">
+[submit class:btn class:btn-black "Send Message"]
+</div>
