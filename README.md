@@ -6,6 +6,6 @@
 ### Descrição
 Repositório para o projeto de desenvolvimento do website do Grupo Fitotecnico de Goiás.
 ### Membros
+- Andres Zuin
 - [Erick Vieira](github.com/erickvieira)
 - Thiago Fagundes
-- Andres Zuin
