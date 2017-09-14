@@ -1,5 +1,5 @@
 # Grupo Fitotécnico de Goiás
-### Domínio
+### Projeto
 - [Domínio de Destino Final](https://grupotecnicocanagoias.ufg.br)
 - [Editor Wordpress](http://grupo-fitotecnico-go-erick-vieira-s51146.codeanyapp.com)
 - [Container do Servidor](https://codeanywhere.com/s/l/qAvJnT6DKfAP9ApV0i9BtK3mkZBywOshVo1OmmkGH51ffUoBE37k8l7BsqJHG5HS)
